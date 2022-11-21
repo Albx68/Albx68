@@ -1,3 +1,6 @@
+<div id="header" align="left">
+  <img src="https://giphy.com/gifs/QAGXC2EXQeCkmA8Wpe/fullscreen" width="100"/>
+</div>
 <p>🐸 Albert Yumnam</p>
 <p>💻 Software Engineer</p>
 <p>⌚ 2 years of experience in Web Dev</p>
@@ -6,8 +9,6 @@
 <p>✨ Based</p>
 <p>😎 Cool guy, you'll like him</p>
 <p>📜 B.Tech </p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 
