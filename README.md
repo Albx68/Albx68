@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/QAGXC2EXQeCkmA8Wpe/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/wFCjddvAFptIID1YuM/giphy.gif" width="100"/>
 </div>
 <p>🐸 Albert Yumnam</p>
 <p>💻 Software Engineer</p>
