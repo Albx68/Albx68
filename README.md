@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Albert Yumnam, I make wacky looking webapps 
-- 👀 Interested in Webdev and motion
-- 💞️ albert-yumnam.vercel.app //it's still a work in progress
-
-<!---
-Albx68/Albx68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <p>🐸 Albert Yumnam</p>
+          <p>💻 Software Engineer</p>
+          <p>⌚ 2 years of experience in Web Dev</p>
+          <p>📖 Actively Learning</p>
+          <p>💖 Codes fun stuff, does fun things</p>
+          <p>✨ Based</p>
+          <p>😎 Cool guy, you&apos;ll like him</p>
+          <p>📜 B.Tech </p>
