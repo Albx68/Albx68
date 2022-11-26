@@ -12,3 +12,5 @@
 <p>📜 B.Tech </p>
 
 Check out my website https://albert-yumnam.vercel.app  ( it's still a work in progress )
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Albx68)](https://git.io/streak-stats)
