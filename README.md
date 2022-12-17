@@ -10,7 +10,7 @@
 <p>✨ Based</p>
 <p>😎 Cool guy, you'll like him</p>
 <p>📜 B.Tech </p>
- 
+
 Check out my website https://albert-yumnam.vercel.app  ( it's still a work in progress ) 
 
 
