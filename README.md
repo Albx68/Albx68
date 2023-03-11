@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wFCjddvAFptIID1YuM/giphy.gif" width="300"/>
 </div>
 
-<p>🐸 Albert Yumnam</p>
+<p>🐸 Albert Yumnam</p> 
 <p>💻 Software Engineer</p>
 <p>⌚ 2 years of experience in Web Dev</p>
 <p>📖 Actively Learning</p>
@@ -20,8 +20,5 @@ Check out my website https://albert-yumnam.vercel.app ( it's still a work in pro
 <!--[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Albx68&count_private=true)](https://github.com/LordDashMe/github-contribution-stats/)!-->
  
    
-   
-    
- 
- <!--test-->
+
  
