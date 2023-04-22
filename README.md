@@ -16,7 +16,7 @@
 Check out my website https://albert-yumnam.vercel.app ( it's still a work in progress, gonna take some time, busy with work )
  
    
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albx68&show_icons=true&theme=transparent)
  
  
  
