@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/wFCjddvAFptIID1YuM/giphy.gif" width="300"/>
 </div>
-
+ 
  
 <p>🐸 Albert Yumnam</p> 
 <p>💻 Software Engineer</p>
