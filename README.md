@@ -10,7 +10,7 @@
 <p>😎 Cool guy, you'll like him</p>
 <p>🤖 Interested in System Design</p>
 <p>📊 Data Visualization, SVG & animation</p>
-Check out my website https://albert-yumnam.vercel.app ( it's still a work in progress, gonna take some time, busy with work, update - gonna take forever...)
+Check out my website https://albert-yumnam.vercel.app ( it's still a work in progress, gonna take some time, busy with work, update - gonna take forever... Last update nov 2022)
   
   
    
