@@ -10,10 +10,11 @@
 <p>😎 Cool guy, you'll like him</p>
 <p>🤖 Interested in System Design</p>
 <p>📊 Data Visualization, SVG & animation</p>
+
 Check out my website https://albert-yumnam.vercel.app ( it's still a work in progress, gonna take some time, busy with work, update - gonna take forever... Last update nov 2022)
   
   
-   
+<p></p>
   
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Albx68)](https://git.io/streak-stats)     --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
