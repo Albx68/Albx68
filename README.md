@@ -26,6 +26,5 @@ Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app
 
 ## GitHub Statistics
 
-- Contribution Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Albx68)](https://git.io/streak-stats)
 - Top Languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- GitHub Activity: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albx68)](https://github.com/anuraghazra/github-readme-stats)
+
