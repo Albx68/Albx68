@@ -26,5 +26,6 @@ Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app
 
 ## GitHub Statistics
 
-- Top Languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Top Languages:
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
