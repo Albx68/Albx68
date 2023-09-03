@@ -2,25 +2,30 @@
   <img src="https://media.giphy.com/media/wFCjddvAFptIID1YuM/giphy.gif" width="300"/>
 </div>    
  
-<p>🐸 Albert Yumnam</p> 
-<p>💻 Software Engineer</p>
-<p>📖 Actively Learning</p>
-<p>💖 Codes fun stuff, does fun things</p>
-<p>✨ Based</p>
-<p>😎 Cool guy, you'll like him</p>
-<p>🤖 Interested in System Design</p>
-<p>📊 Data Visualization, SVG & animation</p>
+## About Me
 
-Check out my website https://albert-yumnam.vercel.app ( it's still a work in progress, gonna take some time, busy with work, update - gonna take forever... Last update nov 2022)
-  
-  
-<p></p>
-<p></p>
+- 🐸 Albert Yumnam
+- 💻 Software Engineer
+- 📖 Actively Learning
+- 💖 Codes fun stuff, does fun things
+- ✨ Based
+- 😎 Cool guy, you'll like him
+- 🤖 Interested in System Design
+- 📊 Data Visualization, SVG & animation
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Albx68)](https://git.io/streak-stats)     --> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Albx68)](https://github.com/anuraghazra/github-readme-statss) --> 
+## Portfolio
 
-   
-  
-  
+Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app). Please note that it's a work in progress. Last update nov 22, got caught up with work.
+
+## Skills & Interests
+
+- 💻 Software Engineering
+- 🤖 System Design
+- 📊 Data Visualization
+- 🎨 SVG & Animation
+
+## GitHub Statistics
+
+- Contribution Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Albx68)](https://git.io/streak-stats)
+- Top Languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- GitHub Activity: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albx68)](https://github.com/anuraghazra/github-readme-stats)
