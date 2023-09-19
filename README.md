@@ -19,12 +19,6 @@ Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app
 
 - [react-ts-custom-hooks](https://github.com/Albx68/react-ts-custom-hooks) - A collection of custom React hooks for various use cases in typeScript 🌟. I'm actively adding more hooks and enhancing existing ones to make them even more useful. 
 
-## Skills & Interests
-
-- 💻 Software Engineering
-- 🤖 System Design
-- 📊 Data Visualization
-- 🎨 SVG & Animation
 
 ## GitHub Statistics
 
