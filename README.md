@@ -9,7 +9,7 @@
 - 📖 Actively Learning
 - 💖 Codes fun stuff, does fun things
 - ✨ Based
-- 😎 Cool guy, you'll like him
+- 😎 Cool guy, you'll like him 
 - 🤖 Interested in System Design
 - 📊 Data Visualization, SVG & animation
 
