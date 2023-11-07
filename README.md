@@ -14,7 +14,7 @@
 - 📊 Data Visualization, SVG & animation
 
 ## Portfolio
-Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app). Please note that it's a work in progress. Last update nov 22, got caught up with work.
+Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app). Please note that it's a work in progress. Last update nov 2022, got caught up with work.
 
 - [react-ts-custom-hooks](https://github.com/Albx68/react-ts-custom-hooks) - A collection of custom React hooks for various use cases in typeScript 🌟. I'm actively adding more hooks and enhancing existing ones to make them even more useful. 
 
