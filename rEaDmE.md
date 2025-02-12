@@ -5,7 +5,7 @@
 ## About Me
 
 - 🐸 Albert Yumnam
-- 💻 Software Engineer
+- 💻 Software/AI Engineer
 - 📖 Actively Learning
 - 💖 Codes fun stuff, does fun things
 - ✨ Based
