@@ -20,6 +20,4 @@ Check out my work on [alby-beta.vercel.app](https://alby-beta.vercel.app).
 - [react-flowers-ts](https://github.com/Albx68/react-flowers-ts) - 🌸 Create beautiful flowers in React :D
 - [react-polygon-ts](https://github.com/Albx68/react-polygon-ts) - ⬟ Draw polygons in React :D
 
-## GitHub Statistics
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albx68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
