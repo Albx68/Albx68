@@ -15,7 +15,7 @@
 - 💍 Smart Ring
 
 ## Portfolio
-Check out my work on [albert-yumnam.vercel.app](https://albert-yumnam.vercel.app). Please note that it's a work in progress. Last update nov 2022, got caught up with work.
+Check out my work on [alby-beta.vercel.app](https://alby-beta.vercel.app).
 
 - [react-flowers-ts](https://github.com/Albx68/react-flowers-ts) - 🌸 Create beautiful flowers in React :D
 - [react-polygon-ts](https://github.com/Albx68/react-polygon-ts) - ⬟ Draw polygons in React :D
